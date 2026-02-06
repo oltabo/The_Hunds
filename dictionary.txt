@@ -1,13 +1,13 @@
-- Raesfeld
+- Raesfeld (A Location)
 - Flughafen (Airport)
-– Berlin
+– Berlin (A Location)
 – Bratwurst (Grilled sausage)
 – Hauptstrasse (Main street)
 – Brot (Bread)
 – Klimaanlage (Air conditioning)
 – Rammstein (German band)
-– Porsche
-– BMW
+– Porsche (A Car)
+– BMW (A Car)
 – Biergarten (Beer garden)
 – Ratskeller (Council cellar/restaurant)
 – Dirndel (Traditional dress)
