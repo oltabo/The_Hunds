@@ -7,4 +7,12 @@ They wouldn't let a Bratwurst and hund fly so instead they went to a Baeckerei t
 After their apfelkuchen the two best friends went to Hauptstrasse where the little sausage was eaten by the hund. 
 Despite his best efforts to fatten the Bratwurst up, the Hund remained hungry so he went back to Berlin and joined a Bratwurst Rammstein to make some new friends.  
 When doug arrived at the Rammstein building he noticed another hund. 
+<<<<<<< HEAD
 Doung knew he was there for the same reason, but doug knew he wasnt wettbewerbsfaehig. 
+=======
+Doung knew he was there for the same reason, but doug knew he wasnt wettbewerbsfaehig. 
+Determined to prove he was wettbewerbsfaehig, Doug challenged the other Hund to a dance battle outside a Schloss while wearing borrowed Lederhose.
+Doug was instantly captivated by this other hund.
+Doug approached the other hund and decided it would be best to team up, grab some brot, and feast!
+After the feast, the two hunds got into Doug's Porshce and they went to the Biergarten near Raesfeld.
+>>>>>>> main
